@@ -1,0 +1,4 @@
+2024-02-04 20:42:38,270 Creating artifact
+2024-02-04 20:42:38,312 Logging artifact
+[34m[1mwandb[39m[22m: Waiting for artifact iris to be committed...
+[34m[1mwandb[39m[22m: Committed artifact xqi/exercise_2/iris:v0

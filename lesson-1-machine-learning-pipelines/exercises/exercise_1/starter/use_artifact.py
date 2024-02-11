@@ -18,6 +18,7 @@ def go(args):
 
     # YOUR CODE HERE: get the artifact and store its local path in the variable "artifact_path"
     # HINT: you can get the artifact path by using the "file()" method
+    artifact = run.use_artifact(args.artifact_name)
 
     artifact_path = artifact.file()
 
@@ -27,8 +28,9 @@ def go(args):
 
     print(content)
 
+
 if __name__ == "__main__":
-    
+
     parser = argparse.ArgumentParser(
         description="Use an artifact from W&B", fromfile_prefix_chars="@"
     )
