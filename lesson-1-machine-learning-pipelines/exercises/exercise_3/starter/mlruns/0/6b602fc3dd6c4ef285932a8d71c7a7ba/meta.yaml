@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/xiaoxiaoqi/Documents/repo/udacity/MLOps/MLOps_p2/cd0581-building-a-reproducible-model-workflow-exercises/lesson-1-machine-learning-pipelines/exercises/exercise_3/starter/mlruns/0/6b602fc3dd6c4ef285932a8d71c7a7ba/artifacts
+end_time: 1710206443045
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b602fc3dd6c4ef285932a8d71c7a7ba
+run_name: peaceful-chimp-61
+run_uuid: 6b602fc3dd6c4ef285932a8d71c7a7ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710206439817
+status: 4
+tags: []
+user_id: xiaoxiaoqi

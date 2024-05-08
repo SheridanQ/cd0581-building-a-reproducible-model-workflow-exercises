@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/xiaoxiaoqi/Documents/repo/udacity/MLOps/MLOps_p2/cd0581-building-a-reproducible-model-workflow-exercises/lesson-1-machine-learning-pipelines/exercises/exercise_3/starter/mlruns/0/3bce232291d34aa0bbf3a8fd16706110/artifacts
+end_time: 1715200516074
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3bce232291d34aa0bbf3a8fd16706110
+run_name: worried-bird-559
+run_uuid: 3bce232291d34aa0bbf3a8fd16706110
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715197669445
+status: 3
+tags: []
+user_id: xiaoxiaoqi

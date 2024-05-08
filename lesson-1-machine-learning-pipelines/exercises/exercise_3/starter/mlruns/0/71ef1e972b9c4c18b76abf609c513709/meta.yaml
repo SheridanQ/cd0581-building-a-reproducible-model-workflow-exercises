@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/xiaoxiaoqi/Documents/repo/udacity/MLOps/MLOps_p2/cd0581-building-a-reproducible-model-workflow-exercises/lesson-1-machine-learning-pipelines/exercises/exercise_3/starter/mlruns/0/71ef1e972b9c4c18b76abf609c513709/artifacts
+end_time: 1715197495307
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 71ef1e972b9c4c18b76abf609c513709
+run_name: resilient-zebra-346
+run_uuid: 71ef1e972b9c4c18b76abf609c513709
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715197485031
+status: 4
+tags: []
+user_id: xiaoxiaoqi

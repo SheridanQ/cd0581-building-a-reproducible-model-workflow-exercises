@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/xiaoxiaoqi/Documents/repo/udacity/MLOps/MLOps_p2/cd0581-building-a-reproducible-model-workflow-exercises/lesson-1-machine-learning-pipelines/exercises/exercise_3/starter/mlruns/0/ea1c63fe1d5d4abca588b75cd3349649/artifacts
+end_time: 1715200515883
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: ea1c63fe1d5d4abca588b75cd3349649
+run_uuid: ea1c63fe1d5d4abca588b75cd3349649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715197682062
+status: 3
+tags: []
+user_id: xiaoxiaoqi

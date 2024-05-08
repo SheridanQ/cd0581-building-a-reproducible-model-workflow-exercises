@@ -1,0 +1,31 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.8.18",
+    "heartbeatAt": "2024-05-08T19:47:56.582257",
+    "startedAt": "2024-05-08T19:47:55.352190",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "--file_url",
+        "https://raw.githubusercontent.com/scikit-learn/scikit-learn/4dfdfb4e1bb3719628753a4ece995a1b2fa5312a/sklearn/datasets/data/iris.csv",
+        "--artifact_name",
+        "iris.csv",
+        "--artifact_type",
+        "raw_data",
+        "--artifact_description",
+        "Input data"
+    ],
+    "state": "running",
+    "program": "download_data.py",
+    "codePath": "lesson-1-machine-learning-pipelines/exercises/exercise_3/starter/download_data/download_data.py",
+    "git": {
+        "remote": "https://github.com/SheridanQ/cd0581-building-a-reproducible-model-workflow-exercises.git",
+        "commit": "87ff404d8678eb7d0cef4d93326dba5028944fd2"
+    },
+    "email": "xqi10@hawk.iit.edu",
+    "root": "/Users/xiaoxiaoqi/Documents/repo/udacity/MLOps/MLOps_p2/cd0581-building-a-reproducible-model-workflow-exercises",
+    "host": "Xiaoxiaos-MacBook-Pro.local",
+    "username": "xiaoxiaoqi",
+    "executable": "/Users/xiaoxiaoqi/opt/anaconda3/envs/mlflow-5b98147e5117ac6c30e85e2f0202eafb73da0cd7/bin/python"
+}
